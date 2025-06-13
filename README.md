@@ -30,8 +30,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnubrataMajumdar&show_icons=true&theme=tokyonight" height="150px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnubrataMajumdar&layout=compact&theme=tokyonight" height="150px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ANUBRATA708&show_icons=true&theme=tokyonight" height="150px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANUBRATA708&layout=compact&theme=tokyonight" height="150px"/>
 </p>
 
 ---
@@ -69,7 +69,7 @@
 ---
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnubrataMajumdar&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ANUBRATA708&theme=github_dark" />
 </p>
 
 
