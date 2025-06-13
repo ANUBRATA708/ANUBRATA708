@@ -9,7 +9,7 @@
 
 ### 💫 About Me
 
-- 🎓 Second-year Electronics & Communication Engineering student  
+- 🎓 3rd-year Electronics & Communication Engineering student  
 - 🤖 Exploring AI/ML for **signal, audio & circuit layout applications**  
 - 🧠 Passionate about **VLSI**, embedded systems, and **EDA tools**  
 - 🌱 Currently building:  
