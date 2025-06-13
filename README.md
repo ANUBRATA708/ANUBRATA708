@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Electronics & AI Enthusiast | Engineering Student | Building Smart & Useful Tech</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=F754BA&center=true&width=435&lines=ECE+Student+%7C+VLSI+%7C+AI-ML+Projects;Signal+%2F+Audio+Processing+Lover;GATE+%2B+CAT+2026+Prep+On!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=F754BA&center=true&width=435&lines=ECE+Student+%7C+VLSI+%7C+AI-ML+Projects;Signal+%2F+Audio+Processing+Lover;Building+Smart+Embedded+Systems!" alt="Typing SVG" />
 </p>
 
 ---
@@ -12,7 +12,6 @@
 - 🎓 Second-year Electronics & Communication Engineering student  
 - 🤖 Exploring AI/ML for **signal, audio & circuit layout applications**  
 - 🧠 Passionate about **VLSI**, embedded systems, and **EDA tools**  
-- 🎯 Preparing for **GATE (ECE)** and **CAT 2026** simultaneously  
 - 🌱 Currently building:  
   - `AI-Driven Posture App`  
   - `Analog Layout Optimizer`  
@@ -72,4 +71,6 @@
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnubrataMajumdar&theme=github_dark" />
 </p>
+
+
 
