@@ -43,7 +43,7 @@
 | 🧠 **AI Posture Recommender** | Real-time posture detection app for back pain relief using ML & Streamlit |
 | 🧪 **NanoMaterial Designer** | AI-assisted platform for novel nanomaterial discovery |
 | 📉 **Analog Layout Optimizer** | ML tool to predict layout area from SPICE netlists |
-| 💧 **Leak Detection** | Deep learning-based water pipeline leak predictor using signal analysis |
+| 💧 **Pipeline Leak Detection** | Deep learning-based water pipeline leak predictor using signal analysis |
 
 ---
 
